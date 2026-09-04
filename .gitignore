@@ -1,0 +1,7 @@
+# 入力画像は版管理しない（手元素材／著作物）
+manga-data/
+
+# OS ゴミ
+Thumbs.db
+.DS_Store
+desktop.ini
